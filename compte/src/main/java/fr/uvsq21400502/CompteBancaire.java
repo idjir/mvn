@@ -3,7 +3,10 @@ public class CompteBancaire  {
 	
 	private double solde;
 	
-
+	//~ public static void main(String[] args)
+	//~ {
+		//~ System.out.println("helloworld!");
+	//~ }
 	
 	public CompteBancaire(double solde)
 	{
